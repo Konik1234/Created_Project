@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1686396863 source:c:\repo_git_poio\projekt_gra_rpg\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<vector>
+	<fstream>
+	<windows.h>
+	"Funkcje.h"
+
+1686396929 c:\repo_git_poio\projekt_gra_rpg\funkcje.h
+	<iostream>
+
+1686386009 c:\repo_git_poio\projekt_gra_rpg\gwiazda.cpp
+	<iostream>
+	"Funkcje.h"
+
+1686389946 c:\repo_git_poio\projekt_gra_rpg\kontynuluj.cpp
+	<iostream>
+	"Funkcje.h"
+
+1686390300 c:\repo_git_poio\projekt_gra_rpg\pasek.cpp
+	<iostream>
+	"Funkcje.h"
+
+1686396128 c:\repo_git_poio\projekt_gra_rpg\menu.cpp
+	<iostream>
+	"Funkcje.h"
+	<windows.h>
+
+1686395425 c:\repo_git_poio\projekt_gra_rpg\bohater.h
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<vector>
+	<fstream>
+	<windows.h>
+	"Bohater.cpp"
+
+1686396173 c:\repo_git_poio\projekt_gra_rpg\bohater.cpp
+	"Bohater.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<vector>
+	<fstream>
+	<windows.h>
+
+1686386009 source:c:\repo_git_poio\projekt_gra_rpg\gwiazda.cpp
+	<iostream>
+	"Funkcje.h"
+
+1686389946 source:c:\repo_git_poio\projekt_gra_rpg\kontynuluj.cpp
+	<iostream>
+	"Funkcje.h"
+
+1686396830 source:c:\repo_git_poio\projekt_gra_rpg\menu.cpp
+	<iostream>
+	"Funkcje.h"
+	<windows.h>
+
+1686390300 source:c:\repo_git_poio\projekt_gra_rpg\pasek.cpp
+	<iostream>
+	"Funkcje.h"
+
