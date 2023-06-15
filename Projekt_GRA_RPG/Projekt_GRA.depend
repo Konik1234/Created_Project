@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1686396863 source:c:\repo_git_poio\projekt_gra_rpg\main.cpp
+1686399610 source:c:\repo_git_poio\projekt_gra_rpg\main.cpp
 	<iostream>
 	<cstdlib>
 	<cstdio>
