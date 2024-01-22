@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1686399610 source:c:\repo_git_poio\projekt_gra_rpg\main.cpp
+1686396010 source:c:\repo_git_poio\projekt_gra_rpg\main.cpp
 	<iostream>
 	<cstdlib>
 	<cstdio>
@@ -9,7 +9,7 @@
 	<windows.h>
 	"Funkcje.h"
 
-1686396929 c:\repo_git_poio\projekt_gra_rpg\funkcje.h
+1686393329 c:\repo_git_poio\projekt_gra_rpg\funkcje.h
 	<iostream>
 
 1686386009 c:\repo_git_poio\projekt_gra_rpg\gwiazda.cpp
@@ -50,20 +50,20 @@
 	<fstream>
 	<windows.h>
 
-1686386009 source:c:\repo_git_poio\projekt_gra_rpg\gwiazda.cpp
+1686382409 source:c:\repo_git_poio\projekt_gra_rpg\gwiazda.cpp
 	<iostream>
 	"Funkcje.h"
 
-1686389946 source:c:\repo_git_poio\projekt_gra_rpg\kontynuluj.cpp
+1686386346 source:c:\repo_git_poio\projekt_gra_rpg\kontynuluj.cpp
 	<iostream>
 	"Funkcje.h"
 
-1686396830 source:c:\repo_git_poio\projekt_gra_rpg\menu.cpp
+1686393230 source:c:\repo_git_poio\projekt_gra_rpg\menu.cpp
 	<iostream>
 	"Funkcje.h"
 	<windows.h>
 
-1686390300 source:c:\repo_git_poio\projekt_gra_rpg\pasek.cpp
+1686386700 source:c:\repo_git_poio\projekt_gra_rpg\pasek.cpp
 	<iostream>
 	"Funkcje.h"
 
